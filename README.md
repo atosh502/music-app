@@ -1,3 +1,3 @@
 # music-app
 
-A music learning app.
+A music experimentation app.
